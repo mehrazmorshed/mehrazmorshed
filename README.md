@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mehrazmorshed
 - 👀 I’m interested in ... PHP, MySQL, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery
-- 🌱 I’m currently learning ... React.js, Laravel, AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mehrazmorshed@gmail.com
+- 🌱 I’m currently learning ... Laravel, AWS, React.js, Node.js, Vue.js, Angular.js
+- 💞️ I’m looking to collaborate on ... WordPress Theme Development, PHP Projects
+- 📫 How to reach me ... https://www.linkedin.com/in/mehrazmorshed/
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
