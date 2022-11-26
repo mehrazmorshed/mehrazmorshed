@@ -1,4 +1,4 @@
-<h1>Mehraz Morshed</h1>
+# Mehraz Morshed
 - 👋 Hi, I’m @mehrazmorshed
 - 👀 I’m interested in ... PHP, MySQL, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery
 - 🌱 I’m currently learning ... Laravel, AWS, React.js, Node.js, Vue.js, Angular.js
