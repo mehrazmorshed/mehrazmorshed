@@ -1,7 +1,7 @@
 # Mehraz Morshed
 - 👋 Hi, I’m @mehrazmorshed
-- 👀 I’m interested in ... PHP, MySQL, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery
-- 🌱 I’m currently learning ... Laravel, AWS, React.js, Node.js, Vue.js, Angular.js
+- 👀 I’m interested in ... PHP, SQL, WordPress, Bootstrap, HTML, CSS, JavaScript, AWS
+- 🌱 I’m currently learning ... Laravel, MongoDB, React.js, Node.js, Vue.js, Angular.js
 - 💞️ I’m looking to collaborate on ... WordPress Theme Development, PHP Projects
 - 📫 How to reach me ... https://www.linkedin.com/in/mehrazmorshed/
 
