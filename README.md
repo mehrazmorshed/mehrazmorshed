@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ... Laravel, MongoDB, React.js, Node.js, Vue.js, Angular.js
 - 💞️ I’m looking to collaborate on ... PHP Projects, WordPress Theme Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
-- ⚙️ WordPress, PHP, SQL
+- ⚙️ PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap
 
 
 <!---
