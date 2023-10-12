@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on ... PHP Projects, WordPress Theme Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
 - ⚙️ PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap
-
+- Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇮🇳 Hindi, 🇯🇵 Japanese
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
