@@ -1,5 +1,6 @@
 # Mehraz Morshed
 - 👋 Hi, I’m @mehrazmorshed
+- 💼 Junior Software Engineer at Codexpert, Inc.
 - 👀 I’m interested in ... PHP, SQL, WordPress, Bootstrap, HTML, CSS, JavaScript, AWS
 - 🌱 I’m currently learning ... Laravel, MongoDB, React.js, Node.js, Vue.js, Angular.js
 - 💞️ I’m looking to collaborate on ... PHP Projects, WordPress Theme Development
