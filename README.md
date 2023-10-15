@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ... Laravel, React, Node.js
 - 💞️ I’m looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
-- ⚙️ Skills: PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap, AWS
+- ⚙️ Skills: WordPress, AWS, PHP, SQL, HTML, CSS, JavaScript, jQuery, Bootstrap
 - Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
 
 <!---
