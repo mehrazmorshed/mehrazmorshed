@@ -1,6 +1,7 @@
 # Mehraz Morshed
 - 👋 Hi, I’m @mehrazmorshed
 - ⚙️ Skills: WordPress, AWS, PHP, SQL, HTML, CSS, JavaScript, jQuery, Bootstrap
+- 🌐 WordPress Plugins Repository: https://profiles.wordpress.org/mehrazmorshed/#content-plugins
 - Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
 - 🏠 Mirpur, Dhaka, Bangladesh
 - 💼 Junior Software Engineer at Codexpert, Inc.
@@ -8,7 +9,6 @@
 - 🎓 Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
-- 🌐 WordPress Plugins Repository: https://profiles.wordpress.org/mehrazmorshed/#content-plugins
 - 👀 I’m interested in ... PHP, SQL, WordPress, Bootstrap, HTML, CSS, JavaScript, AWS
 - 📫 How to reach me ... http://mehrazmorshed.com/
 - 🌱 Currently learning ... Laravel, React, Node.js
