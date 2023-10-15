@@ -8,10 +8,10 @@
 - 🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
 - 🌐 WordPress Plugins Repository: https://profiles.wordpress.org/mehrazmorshed/#content-plugins
 - 👀 I’m interested in ... PHP, SQL, WordPress, Bootstrap, HTML, CSS, JavaScript, AWS
-- 🌱 I’m currently learning ... React, Node.js
+- 🌱 I’m currently learning ... Laravel, React, Node.js
 - 💞️ I’m looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
-- ⚙️ Skills: PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap
+- ⚙️ Skills: PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap, AWS
 - Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
 
 <!---
