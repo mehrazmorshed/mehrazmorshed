@@ -9,7 +9,7 @@
 - 🌐 WordPress Plugins Repository: https://profiles.wordpress.org/mehrazmorshed/#content-plugins
 - 👀 I’m interested in ... PHP, SQL, WordPress, Bootstrap, HTML, CSS, JavaScript, AWS
 - 🌱 I’m currently learning ... Laravel, MongoDB, React.js, Node.js, Vue.js, Angular.js
-- 💞️ I’m looking to collaborate on ... WordPress, WooCommerce Add-ons, Elementor Widgets
+- 💞️ I’m looking to collaborate on ... PHP, WooCommerce Add-ons, Elementor Widgets
 - 📫 How to reach me ... http://mehrazmorshed.com/
 - ⚙️ Skills: PHP, SQL, WordPress, HTML, CSS, JavaScript, jQuery, Bootstrap
 - Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
