@@ -15,7 +15,7 @@
 - EDUCATION
 - 🎓 2024: Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 Master in Japanese Studies (MJS) from University of Dhaka
-- 🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
+- 🎓 2016: Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
