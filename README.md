@@ -8,7 +8,7 @@
 - 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
 - EXPERIENCE
-- 💼 Junior Software Engineer at Codexpert, Inc.
+- 💼 Junior Software Engineer at Codexpert, Inc. (October 2023 to Present)
 - 💼 Former Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
 - EDUCATION
 - 🎓 Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
