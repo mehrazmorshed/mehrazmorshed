@@ -11,6 +11,7 @@
 - 💼 Junior Software Engineer at Codexpert, Inc. (1st October 2023 to Present)
 - 💼 WordPress Plugin Developer (Intern) at Codexpert, Inc. (1st August 2023 to 30 September 2023)
 - 💼 Former Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
+- 💼 Former Part-Time Employee at University of Dhaka (13 September 2018 to 29 April 2019)
 - EDUCATION
 - 🎓 Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 Master in Japanese Studies (MJS) from University of Dhaka
