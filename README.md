@@ -13,7 +13,7 @@
 - 💼 Former Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
 - 💼 Former Part-Time Employee at University of Dhaka (13 September 2018 to 29 April 2019)
 - EDUCATION
-- 🎓 Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
+- 🎓 2024: Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
 
