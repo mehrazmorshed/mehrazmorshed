@@ -10,7 +10,6 @@
 - EXPERIENCE
 - 💼 Junior Software Engineer at Codexpert, Inc. (1st October 2023 to Present)
 - 💼 Former Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
-- 💼 Former Part-Time Employee at University of Dhaka (13 September 2018 to 29 April 2019)
 - EDUCATION
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
