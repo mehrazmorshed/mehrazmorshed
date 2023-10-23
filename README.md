@@ -14,8 +14,8 @@
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science (CS) from Jahangirnagar University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 2016 : Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
-- 🎓 2012 : Higher Secondary Certificate in Science from Dhaka Residential Model College
-- 🎓 2010 : Secondary School Certificate in Science from Al-Hera Academy School and College
+- 🎓 2012 : Higher Secondary Certificate (HSC), Major in Science from Dhaka Residential Model College
+- 🎓 2010 : Secondary School Certificate (SSC), Major in Science from Al-Hera Academy School and College
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
