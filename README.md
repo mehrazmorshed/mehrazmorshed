@@ -13,7 +13,7 @@
 - EDUCATION
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
-- 🎓 2016 : Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from Patuakhali Science and Technology University
+- 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
 - 🎓 2012 : Higher Secondary Certificate (HSC), Major in Science from Dhaka Residential Model College
 - 🎓 2010 : Secondary School Certificate (SSC), Science from Al-Hera Academy School and College
 
