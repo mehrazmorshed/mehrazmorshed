@@ -12,6 +12,7 @@
 - 💼 Former Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
 - EDUCATION
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
+- 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
 - 🎓 2012 : Higher Secondary Certificate (HSC), Major in Science from Dhaka Residential Model College
