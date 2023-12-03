@@ -15,7 +15,7 @@
 - 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
-- 🎓 2012 : Higher Secondary Certificate (HSC), Major in Science from Dhaka Residential Model College
+- 🎓 2012 : Higher Secondary Certificate (HSC), Science Group from Dhaka Residential Model College
 - 🎓 2010 : Secondary School Certificate (SSC), Major in Science from Al-Hera Academy School and College
 
 <!---
