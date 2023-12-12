@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">Just Another WordPress Contributor</h3>
+<h1 align="center">Just Another WordPress Contributor</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrazmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="mehrazmorshed" /> </p>
 
