@@ -5,10 +5,7 @@
 
 
 
-
-
-
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">get in touch</h2>
 <p align="left">
 <a href="https://codepen.io/mehrazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehrazmorshed" height="30" width="40" /></a>
 <a href="https://dev.to/mehrazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehrazmorshed" height="30" width="40" /></a>
