@@ -1,7 +1,6 @@
 <h1 align="center">Just Another WordPress Contributor</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrazmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="mehrazmorshed" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrazmorshed" alt="mehrazmorshed" /></a> </p>
-<p align="left"> <a href="https://twitter.com/mehrazmorshed" target="blank"><img src="https://img.shields.io/twitter/follow/mehrazmorshed?logo=twitter&style=for-the-badge" alt="mehrazmorshed" /></a> </p>
 
 
 
@@ -65,6 +64,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrazmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="mehrazmorshed" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mehrazmorshed" target="blank"><img src="https://img.shields.io/twitter/follow/mehrazmorshed?logo=twitter&style=for-the-badge" alt="mehrazmorshed" /></a> </p>
 
 
 
