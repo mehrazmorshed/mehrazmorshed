@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/mehrazmorshed" target="blank"><img src="https://img.shields.io/twitter/follow/mehrazmorshed?logo=twitter&style=for-the-badge" alt="mehrazmorshed" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/mehrazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehrazmorshed" height="30" width="40" /></a>
 <a href="https://dev.to/mehrazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehrazmorshed" height="30" width="40" /></a>
