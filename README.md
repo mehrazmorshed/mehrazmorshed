@@ -72,8 +72,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mehrazmorshed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehrazmorshed" /></a>
-  <a href="https://ko-fi.com/mehrazmorshed"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mehrazmorshed" /></a>
+  <a href="https://www.buymeacoffee.com/mehrazmorshed"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehrazmorshed" /></a>
+  <a href="https://ko-fi.com/mehrazmorshed"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mehrazmorshed" /></a>
 </p>
 
 <br><br>
