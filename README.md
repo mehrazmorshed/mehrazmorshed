@@ -1,4 +1,4 @@
-<h1 align="center">Just Another WordPress Contributor</h1>
+<h1 align="center">MEHRAZ MORSHED</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrazmorshed" alt="mehrazmorshed" /></a> </p>
 
