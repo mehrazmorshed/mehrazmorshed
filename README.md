@@ -82,7 +82,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrazmorshed&show_icons=true&locale=en&layout=compact" alt="mehrazmorshed" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrazmorshed&show_icons=true&locale=en" alt="mehrazmorshed" /></p>
+<br><br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrazmorshed&show_icons=true&locale=en" alt="mehrazmorshed" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrazmorshed&" alt="mehrazmorshed" /></p>
 
