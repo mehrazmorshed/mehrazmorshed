@@ -42,10 +42,10 @@
 - 🌱 I'm currently learning ... Laravel, React, Node.js
 - 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
-- EXPERIENCE
+# EXPERIENCE
 - 💼 Junior Software Engineer at Codexpert, Inc. (1st October 2023 to Present)
 - 💼 Former Employee at University of Dhaka (30 April 2019 to 30 April 2023)
-- EDUCATION
+# EDUCATION
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
 - 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
