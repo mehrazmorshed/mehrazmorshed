@@ -2,7 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrazmorshed" alt="mehrazmorshed" /></a> </p>
 
-
 <h2 align="center">... get connected ...</h2>
 <p align="left">
 <a href="https://codepen.io/mehrazmorshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehrazmorshed" height="30" width="40" /></a>
