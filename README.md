@@ -43,7 +43,7 @@
 - 📫 How to reach me ... http://mehrazmorshed.com/
 # EXPERIENCE
 - 💼 Junior Software Engineer at Codexpert, Inc. (1 October 2023 to 30 May 2024)
-- 💼 Former Employee at University of Dhaka (30 April 2019 to 30 April 2023)
+- 💼 Full-Time Employee at University of Dhaka (30 April 2019 to 30 April 2023)
 # EDUCATION
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
 - 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
