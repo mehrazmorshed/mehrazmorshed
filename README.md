@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-![Mehraz Morshed](https://github-readme-stats.vercel.app/api?username=mehrazmorshed&show_icons=true&locale=en&theme=transparent)
+![Mehraz Morshed](https://github-readme-stats.vercel.app/api?username=mehrazmorshed&show_icons=true&locale=ja&theme=transparent)
 
 
 
