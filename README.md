@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrazmorshed&show_icons=true&theme=transparent)
 
 
 
