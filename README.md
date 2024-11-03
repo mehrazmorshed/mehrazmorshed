@@ -37,6 +37,8 @@
 - 🌱 I'm currently learning ... Shopify, Laravel, React, Node.js
 - 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
+# SKILLS
+- WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap
 # EXPERIENCE
 - 💼 Product Manager at Codexpert, Inc. (October 2023 to Present)
 - 💼 Trainee Developer at Codexpert, Inc. (July 2023 to September 2023)
