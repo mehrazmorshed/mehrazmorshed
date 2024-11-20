@@ -1,6 +1,13 @@
 <h1 align="center">MEHRAZ MORSHED</h1>
 
-# Mehraz Morshed
+
+📞
+☎️
+✉️
+🏠
+🌎
+
+
 - 👋 Hi, I’m @mehrazmorshed
 - 🏠 I live in: Mirpur, Dhaka, Bangladesh
 - ⚙️ I'm skilled in: WordPress, AWS, PHP, SQL, HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS
@@ -10,7 +17,7 @@
 - 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
 
-## SKILLS
+## Skills
 - WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, AWS, OOP
 
 ## Experience
