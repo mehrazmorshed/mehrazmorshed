@@ -23,6 +23,14 @@
 - 🎓 2012 : Higher Secondary Certificate (HSC), Science Group from Dhaka Residential Model College
 - 🎓 2010 : Secondary School Certificate (SSC), Science Group from Al-Hera Academy School and College
 
+
+<h1 align="center">PORTFOLIO</h1>
+
+## Google Chrome Extensions
+
+- Screenshot Capture	https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
+- Dark Mode		https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
+
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
