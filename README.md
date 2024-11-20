@@ -3,17 +3,8 @@
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
 - 🏠 Mirpur, Dhaka-1216, Bangladesh
-- 🌎 mehrazmorshed@gmail.com/contact
-
-
-- 👋 Hi, I’m @mehrazmorshed
-- 🏠 I live in: Mirpur, Dhaka, Bangladesh
-- ⚙️ I'm skilled in: WordPress, AWS, PHP, SQL, HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS
-- 🌐 Explore my WordPress plugins repository: https://profiles.wordpress.org/mehrazmorshed/#content-plugins
-- 👀 I can speak: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
-- 🌱 I'm currently learning ... Shopify, Laravel, Python, Node.js
-- 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
-- 📫 How to reach me ... http://mehrazmorshed.com/
+- 🌎 Website: mehrazmorshed.com
+- 🌐 Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
 
 ## Skills
 - WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, AWS, OOP
