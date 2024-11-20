@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrazmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="mehrazmorshed" /> </p>
 <h1 align="center">MEHRAZ MORSHED</h1>
 
 - 📞 (+88) 01521452581
