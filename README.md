@@ -6,7 +6,11 @@
 - 🏠 Mirpur, Dhaka-1216, Bangladesh
 
 ## Skills
-- WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, AWS, OOP
+- Product Management, Analysis, Support, Quality Assurance and Testing,
+- PHP, SQL, jQuery JavaScript, CSS, HTML, Bootstrap, WordPress, Joomla,
+- WordPress Plugin and Theme Development, Website Customization,
+- cPanel, WebMail, SSL, DNS, VPS, WHM, DBMS, SaaS, Cloud, AWS,
+- Google Chrome Extension Development,
 
 ## Experience
 - 💼 Junior Software Engineer and Product Manager at Codexpert, Inc. (October 2023 to Present)
