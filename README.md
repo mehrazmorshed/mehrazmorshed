@@ -1,6 +1,6 @@
 <h1 align="center">MEHRAZ MORSHED</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrazmorshed" alt="mehrazmorshed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=mehrazmorshed" alt="mehrazmorshed" /></a> </p>
 
 # Mehraz Morshed
 - 👋 Hi, I’m @mehrazmorshed
