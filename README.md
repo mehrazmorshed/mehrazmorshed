@@ -3,8 +3,6 @@
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
 - 🏠 Mirpur, Dhaka-1216, Bangladesh
-- 🌎 Website: mehrazmorshed.com
-- 🌐 Languages: 🇧🇩 Bangla, 🇺🇸 English, 🇯🇵 Japanese
 
 ## Skills
 - WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, AWS, OOP
@@ -20,6 +18,11 @@
 - 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
 - 🎓 2012 : Higher Secondary Certificate (HSC), Science Group from Dhaka Residential Model College
 - 🎓 2010 : Secondary School Certificate (SSC), Science Group from Al-Hera Academy School and College
+
+## Languages
+- 🇧🇩 Bangla
+- 🇺🇸 English
+- 🇯🇵 Japanese
 
 <h1 align="center">PORTFOLIO</h1>
 
