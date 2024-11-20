@@ -9,7 +9,7 @@
 - WordPress Plugin and Theme Development, Website Customization,
 - PHP, SQL, JavaScript, CSS, HTML, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, SSL, DNS, VPS, WHM, SaaS, Cloud, AWS,
-- Google Chrome Extension Development,
+- Google Chrome Extension Development, On-Page and Technical SEO
 
 ## Experience
 - 💼 Junior Software Engineer and Product Manager at Codexpert, Inc. (October 2023 to Present)
