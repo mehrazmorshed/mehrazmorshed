@@ -9,20 +9,21 @@
 - 🌱 I'm currently learning ... Shopify, Laravel, Python, Node.js
 - 💞️ I'm looking to collaborate on ... PHP Projects, WooCommerce Add-ons, Elementor Widgets, WordPress Theme and Plugin Development
 - 📫 How to reach me ... http://mehrazmorshed.com/
-# SKILLS
+
+## SKILLS
 - WordPress, PHP, SQL, JavaScript, HTML, CSS, Bootstrap, AWS, OOP
-# EXPERIENCE
-- 💼 Product Manager at Codexpert, Inc. (October 2023 to Present)
-- 💼 Trainee Developer at Codexpert, Inc. (July 2023 to September 2023)
+
+## Experience
+- 💼 Junior Software Engineer and Product Manager at Codexpert, Inc. (October 2023 to Present)
 - 💼 Full-Time Employee at University of Dhaka (April 2019 to April 2023)
-# EDUCATION
+
+## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
 - 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
 - 🎓 2012 : Higher Secondary Certificate (HSC), Science Group from Dhaka Residential Model College
 - 🎓 2010 : Secondary School Certificate (SSC), Science Group from Al-Hera Academy School and College
-
 
 <h1 align="center">PORTFOLIO</h1>
 
