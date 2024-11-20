@@ -29,7 +29,7 @@
 ### WordPress Themes:
 - BlogBD (400+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
-## WordPress Plugins:
+### WordPress Plugins:
 - Hide Titles (5000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
@@ -38,7 +38,7 @@
 - Custom Login Page (10+ Active Installs) >> https://wordpress.org/plugins/customized-login/
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
 
-## Google Chrome Extensions:
+### Google Chrome Extensions:
 - Screenshot Capture >>	https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
