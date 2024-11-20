@@ -6,9 +6,9 @@
 
 ## Skills
 - Product Management, Analysis, Support, Quality Assurance and Testing,
-- PHP, SQL, jQuery JavaScript, CSS, HTML, Bootstrap, WordPress, Joomla,
 - WordPress Plugin and Theme Development, Website Customization,
-- cPanel, WebMail, SSL, DNS, VPS, WHM, DBMS, SaaS, Cloud, AWS,
+- PHP, SQL, JavaScript, CSS, HTML, Bootstrap, jQuery, Joomla,
+- cPanel, WebMail, SSL, DNS, VPS, WHM, SaaS, Cloud, AWS,
 - Google Chrome Extension Development,
 
 ## Experience
