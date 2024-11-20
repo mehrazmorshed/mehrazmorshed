@@ -1,11 +1,9 @@
 <h1 align="center">MEHRAZ MORSHED</h1>
 
-
-📞
-☎️
-✉️
-🏠
-🌎
+- 📞 (+88) 01521452581
+- ✉️ mehraz.du@gmail.com
+- 🏠 Mirpur, Dhaka-1216, Bangladesh
+- 🌎 mehrazmorshed@gmail.com/contact
 
 
 - 👋 Hi, I’m @mehrazmorshed
