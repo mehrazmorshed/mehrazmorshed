@@ -32,7 +32,6 @@
 
 ### WordPress Themes:
 - BlogBD (400+ Active Installs) >> https://wordpress.org/themes/blogbd/
-- ShopBD (10+ Active Installs) >> https://wordpress.org/themes/shopbd/
 
 ### WordPress Plugins:
 - Hide Titles (6000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
