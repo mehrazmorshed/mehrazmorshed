@@ -12,8 +12,10 @@
 - Google Chrome Extension Development, On-Page and Technical SEO
 
 ## Experience
-- 💼 Junior Software Engineer and Product Manager at Codexpert, Inc. (October 2023 to Present)
-- 💼 Full-Time Employee at University of Dhaka (April 2019 to April 2023)
+- 💼 WordPress Product Manager at Codexpert, Inc. (Oct 2023 to Present)
+- 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep)
+- 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (Apr 2019 to Apr 2023)
+- 💼 Part-Time Employee (Student Support) at University of Dhaka (Sep 2018 to Apr 2023)
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
