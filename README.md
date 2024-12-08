@@ -13,9 +13,9 @@
 
 ## Experience
 - 💼 WordPress Product Manager at Codexpert, Inc. (Oct 2023 to Present)
-- 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep)
+- 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep 2023)
 - 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (Apr 2019 to Apr 2023)
-- 💼 Part-Time Employee (Student Support) at University of Dhaka (Sep 2018 to Apr 2023)
+- 💼 Part-Time Employee (Student Support) at University of Dhaka (Sep 2018 to Apr 2019)
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
