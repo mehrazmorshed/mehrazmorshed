@@ -39,7 +39,7 @@
 - Hide Titles (6000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
-- Tap To Top (90+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
+- Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Author Box (60+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
 - Custom Login Page (10+ Active Installs) >> https://wordpress.org/plugins/customized-login/
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
