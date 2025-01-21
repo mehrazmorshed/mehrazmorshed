@@ -14,7 +14,7 @@
 ## Experience
 - 💼 WordPress Product Manager at Codexpert, Inc. (Oct 2023 to Nov 2024)
 - 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep 2023)
-- 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (Apr 2019 to Apr 2023)
+- 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (April 2019 to April 2023)
 - 💼 Part-Time Employee (Student Support) at University of Dhaka (Sep 2018 to Apr 2019)
 
 ## Education
