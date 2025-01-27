@@ -12,6 +12,7 @@
 - Google Chrome Extension Development, On-Page and Technical SEO
 
 ## Experience
+- 💼 WordPress Support Engineer
 - 💼 WordPress Product Manager at Codexpert, Inc. (Oct 2023 to Nov 2024)
 - 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep 2023)
 - 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (April 2019 to April 2023)
