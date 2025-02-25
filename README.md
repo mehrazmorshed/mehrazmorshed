@@ -12,15 +12,14 @@
 - Google Chrome Extension Development, On-Page and Technical SEO
 
 ## Experience
-- 💼 ShapedPlugin
-- 💼 WordPress Product Manager at Codexpert, Inc. (Oct 2023 to Nov 2024)
-- 💼 Trainee WordPress Plugin Developer at Codexpert, Inc. (Jul 2023 to Sep 2023)
-- 💼 Upper Division Assistant & Data Entry Operator at University of Dhaka (April 2019 to April 2023)
-- 💼 Part-Time Employee (Student Support) at University of Dhaka (Sep 2018 to Apr 2019)
+- 💼 WordPress Support Engineer at ShapedPlugin, LLC (1 Feb 2025 to Present) 
+- 💼 WordPress Product Manager at Codexpert, Inc. (1 Oct 2023 to 30 Nov 2024)
+- 💼 WordPress Plugin Developer at Codexpert, Inc. (30 Jul 2023 to 30 Sep 2023)
+- 💼 Data Entry Operator at University of Dhaka (30 April 2019 to 30 April 2023)
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
-- 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University
+- 🎓 2022 : Graduate Student, Natural Science and Technology at Shimane University (Japan)
 - 🎓 2020 : Master in Japanese Studies (MJS) from University of Dhaka
 - 🎓 2016 : Bachelor of Science (B.Sc.) in CSE from Patuakhali Science and Technology University
 - 🎓 2012 : Higher Secondary Certificate (HSC), Science Group from Dhaka Residential Model College
@@ -41,7 +40,7 @@
 - Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
-- Author Box (90+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
+- Author Box (70+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
 - Custom Login Page (10+ Active Installs) >> https://wordpress.org/plugins/customized-login/
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
 
