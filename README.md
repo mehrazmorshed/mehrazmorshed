@@ -2,7 +2,7 @@
 
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
-- 🏠 Mirpur, Dhaka-1216, Bangladesh
+- 🏠 Brahmanbaria, Bangladesh
 
 ## Skills
 - Product Management, Analysis, Support, Quality Assurance and Testing,
