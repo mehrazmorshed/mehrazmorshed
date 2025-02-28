@@ -5,7 +5,7 @@
 - 🏠 Brahmanbaria, Bangladesh
 
 ## Skills
-- Product Management, Analysis, Support, Quality Assurance and Testing,
+- Product Management, Support, Analysis, Quality Assurance and Testing,
 - WordPress Plugin and Theme Development, Website Customization,
 - PHP, SQL, JavaScript, CSS, HTML, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, SSL, DNS, VPS, WHM, SaaS, Cloud, AWS,
