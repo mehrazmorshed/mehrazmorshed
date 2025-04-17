@@ -41,7 +41,6 @@
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Author Box (80+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
-- Login Manager (10+ Active Installs) >> https://wordpress.org/plugins/customized-login/
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
 
 ### Google Chrome Extensions:
