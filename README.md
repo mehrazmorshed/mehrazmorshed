@@ -40,7 +40,7 @@
 - Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
-- Author Box (80+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
+- Author Box (70+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
 
 ### Google Chrome Extensions:
