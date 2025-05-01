@@ -15,7 +15,7 @@
 - 💼 WordPress Support Engineer at ShapedPlugin, LLC (1 Feb 2025 to Present) 
 - 💼 WordPress Product Manager at Codexpert, Inc. (1 Oct 2023 to 30 Nov 2024)
 - 💼 WordPress Plugin Developer (Intern) at Codexpert, Inc. (30 Jul 2023 to 30 Sep 2023)
-- 💼 Data Entry Operator at University of Dhaka (30 April 2019 to 30 April 2023)
+- 💼 Data Entry Operator (Grade-14) at University of Dhaka (30 April 2019 to 30 April 2023)
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
