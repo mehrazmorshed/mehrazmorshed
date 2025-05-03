@@ -38,7 +38,7 @@
 - BlogBD (400+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
 ### WordPress Plugins:
-- Hide Titles (8000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
+- Hide Titles (7000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
