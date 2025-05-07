@@ -12,8 +12,8 @@
 - Google Chrome Extension Development, On-Page & Technical SEO
 
 ## Experience
-- 💼 WordPress Support Engineer at @ShapedPlugin (1 Feb 2025 to Present)
-- 💼 WordPress Product Manager at @Codexpert (1 Oct 2023 to 30 Nov 2024)
+- 💼 WordPress Support Engineer at ShapedPlugin (1 Feb 2025 to Present)
+- 💼 WordPress Product Manager at Codexpert (1 Oct 2023 to 30 Nov 2024)
 - 💼 WordPress Plugin Developer (Trainee) at Codexpert (30 Jul 2023 to 30 Sep 2023)
 - 💼 Data Entry Operator at University of Dhaka (30 April 2019 to 30 April 2023)
 
