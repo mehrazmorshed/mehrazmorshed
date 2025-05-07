@@ -13,11 +13,9 @@
 
 ## Experience
 - 💼 WordPress Support Engineer at ShapedPlugin (1 Feb 2025 to Present)
-- 💼 Product Analyst (Contractual) at DaisyPlugins (1 Dec 2024 to 31 Jan 2025)
 - 💼 WordPress Product Manager at Codexpert (1 Oct 2023 to 30 Nov 2024)
 - 💼 WordPress Plugin Developer (Intern) at Codexpert (30 Jul 2023 to 30 Sep 2023)
 - 💼 Data Entry Operator at University of Dhaka (30 April 2019 to 30 April 2023)
-- 💼 Junior Web Developer (PHP & WordPress) at DhakaWeb (May 2017 to April 2019)
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
