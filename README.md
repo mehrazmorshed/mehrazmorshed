@@ -44,7 +44,6 @@
 - Hide Thumbnails (10+ Active Installs) >> https://wordpress.org/plugins/hide-thumbnails/
 
 ### Google Chrome Extensions:
-- Screenshot Capture >>	https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
 <!---
