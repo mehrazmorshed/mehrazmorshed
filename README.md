@@ -46,7 +46,8 @@
 ### Google Chrome Extensions:
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
-### WordPress Profile:
+### WordPress Profile, Activity, and Contribution:
+- https://profiles.wordpress.org/mehrazmorshed/
 [![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://www.cardpress.us/)
 
 <!---
