@@ -33,7 +33,7 @@
 <h1 align="center">PORTFOLIO</h1>
 
 ### WordPress Themes:
-- BlogBD (300+ Active Installs) >> https://wordpress.org/themes/blogbd/
+- BlogBD (200+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
 ### WordPress Plugins:
 - Hide Titles (8000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
