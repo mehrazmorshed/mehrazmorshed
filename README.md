@@ -41,7 +41,7 @@
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 - Author Box (50+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
-- Hide Thumbnails >> https://wordpress.org/plugins/hide-thumbnails/
+- Hide Thumbnails
 
 ### Google Chrome Extensions:
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
