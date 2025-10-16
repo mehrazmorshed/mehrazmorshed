@@ -42,7 +42,6 @@
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 - Author Box (50+ Active Installs) >> https://wordpress.org/plugins/about-post-author/
 
-
 ### Google Chrome Extensions:
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
