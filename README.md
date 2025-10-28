@@ -2,7 +2,7 @@
 
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
-- 🏠 Brahmanbaria, Bangladesh
+- 🏠 Bhola, Bangladesh
 
 ## Skills
 - Product Management, Support, Analysis, Quality Assurance & Testing,
