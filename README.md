@@ -46,7 +46,6 @@
 
 ### WordPress Profile, Activity, and Contribution:
 
-
 [![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://profiles.wordpress.org/mehrazmorshed)
 
 <!---
