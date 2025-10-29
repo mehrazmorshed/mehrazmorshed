@@ -45,9 +45,9 @@
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
 ### WordPress Profile, Activity, and Contribution:
-https://profiles.wordpress.org/mehrazmorshed
 
-[![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://www.cardpress.us/)
+
+[![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://profiles.wordpress.org/mehrazmorshed)
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
