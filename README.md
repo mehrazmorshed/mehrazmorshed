@@ -5,7 +5,7 @@
 - 🏠 Bhola, Barishal Division, Bangladesh
 
 ## Skills
-- Product Management, Support, Analysis, Quality Assurance & Testing,
+- Technical Support, Troubleshooting, Quality Assurance & Testing,
 - PHP, SQL, JavaScript, CSS, HTML, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, SSL, DNS, VPS, WHM, SaaS, Cloud, AWS,
 - WordPress Themes, WordPress Plugins, WooCommerce, Elementor,
