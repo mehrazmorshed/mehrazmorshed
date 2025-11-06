@@ -60,7 +60,7 @@
 - Participant : <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> [Online]
 
 <h3  align="center">WordPress Profile, Activity, and Contribution:</h3>
-<br>
+
 [![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://profiles.wordpress.org/mehrazmorshed)
 
 
