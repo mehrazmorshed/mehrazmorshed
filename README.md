@@ -44,20 +44,21 @@
 ### Google Chrome Extensions:
 - Dark Mode	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
-<h1 align="center">COMMUNITY</h1>
-
-= 2024 =
-- Attended <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> [Online]
-- Attended <a href="https://2024.wpaccessibility.day/community/attendees/">WordPress Accessibility Day 2024</a> [Online]
-- Attended <a href="https://sylhet.wordcamp.org/2024/attendees/">WordCamp Sylhet 2024</a> [Sylhet, Bangladesh]
-
-= 2025 =
-- Attended <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> [Online]
-- Attended <a href="https://2025.wpaccessibility.day/about/attendees/">WordPress Accessibility Day 2025</a> [Online]
-- Volunteered at <a href="https://dhaka.wordcamp.org/2025/volunteers/">WordCamp Dhaka 2025</a> [Dhaka, Bangladesh]
+<h1 align="center">WordPress Events</h1>
 
 = 2026 =
 - Attending <a href="https://nepal.wordcamp.org/2026/attendees/">WordCamp Nepal 2026</a> [Butwal, Nepal]
+
+= 2025 =
+- Volunteer : <a href="https://dhaka.wordcamp.org/2025/volunteers/">WordCamp Dhaka 2025</a> [Dhaka, Bangladesh]
+- Attendee : <a href="https://2025.wpaccessibility.day/about/attendees/">WordPress Accessibility Day 2025</a> [Online]
+- Participant : <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> [Online]
+
+= 2024 =
+- Attendee : <a href="https://sylhet.wordcamp.org/2024/attendees/">WordCamp Sylhet 2024</a> [Sylhet, Bangladesh]
+- Attendee : <a href="https://2024.wpaccessibility.day/community/attendees/">WordPress Accessibility Day 2024</a> [Online]
+- Participant : <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> [Online]
+
 
 ### WordPress Profile, Activity, and Contribution:
 
