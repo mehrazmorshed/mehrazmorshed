@@ -59,11 +59,10 @@
 - Attendee : <a href="https://2024.wpaccessibility.day/community/attendees/">WordPress Accessibility Day 2024</a> [Online]
 - Participant : <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> [Online]
 
-<span  align="center">
-### WordPress Profile, Activity, and Contribution:
+<h3  align="center">WordPress Profile, Activity, and Contribution:</h3>
 <br>
 [![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://profiles.wordpress.org/mehrazmorshed)
-</span>
+
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
