@@ -2,7 +2,7 @@
 
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
-- 🏠 Bhola, Barishal Division, Bangladesh
+- 🏠 Bhola District, Barishal Division, Bangladesh
 
 ## Skills
 - Technical Support, Troubleshooting, Quality Assurance & Testing,
