@@ -6,7 +6,7 @@
 
 ## Skills
 - Technical Support, Troubleshooting, Quality Assurance & Testing,
-- PHP, SQL, JavaScript, CSS, HTML5, Bootstrap, jQuery, Joomla,
+- PHP, SQL, JavaScript, CSS3, HTML5, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, SSL, DNS, VPS, WHM, SaaS, Cloud, AWS,
 - WordPress Themes, WordPress Plugins, WooCommerce, Elementor,
 - Google Chrome Extension Development, On-Page & Technical SEO
