@@ -1,6 +1,4 @@
-<h1 align="center">MEHRAZ MORSHED</h1>
-
-### Co-organizer at Bhola WordPress Meetup #WPBhola
+<h1 align="center">MEHRAZ MORSHED</h1><h3>Co-organizer at Bhola WordPress Meetup #WPBhola</h3>
 
 - 📞 (+88) 01521452581
 - ✉️ mehraz.du@gmail.com
