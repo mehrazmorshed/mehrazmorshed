@@ -52,7 +52,7 @@
 - Attending <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">WordCamp Nepal 2026</a> [Butwal, Nepal]
 
 = 2025 =
-- Volunteer : <a href="https://dhaka.wordcamp.org/2025/volunteers/">WordCamp Dhaka 2025</a> [Dhaka, Bangladesh]
+- Volunteer : <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed">WordCamp Dhaka 2025</a> [Dhaka, Bangladesh]
 - Attendee : <a href="https://2025.wpaccessibility.day/about/attendees/">WordPress Accessibility Day 2025</a> [Online]
 - Participant : <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> [Online]
 
