@@ -63,7 +63,7 @@
 
 ### WordPress Profile and Contribution:
 
-[![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)](https://profiles.wordpress.org/mehrazmorshed)
+[![My WordPress Activity](https://www.cardpress.us/card?username=mehrazmorshed&badges=true)]()
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
