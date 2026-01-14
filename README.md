@@ -39,7 +39,7 @@
 
 ### WordPress Plugins:
 - Hide Titles (8000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
-- Turn Off Comments (2000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
+- Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 
