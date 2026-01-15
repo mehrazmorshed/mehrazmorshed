@@ -19,6 +19,7 @@
 - 💼 WordPress Plugin Developer at Codexpert (30 Jul 2023 to 30 Sep 2023)
 - 💼 Data Entry Operator at University of Dhaka (30 Apr 2019 to 30 Apr 2023)
 - 💼 Part-Time Employee at University of Dhaka (13 Sep 2019 to 29 Apr 2019)
+- 💼 Junior WordPress Developer
 
 ## Education
 - 🎓 2024 : Master of Science (M.Sc.) in Computer Science from Jahangirnagar University
