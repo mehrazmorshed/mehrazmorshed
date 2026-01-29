@@ -51,7 +51,7 @@
 <h1 align="center">WordPress Events</h1>
 
 = 2026 =
-- Attending <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">WordCamp Nepal 2026</a> [Butwal, Nepal]
+- Attended <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">WordCamp Nepal 2026</a> [Butwal, Nepal]
 
 = 2025 =
 - Volunteer : <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed">WordCamp Dhaka 2025</a> [Dhaka, Bangladesh]
