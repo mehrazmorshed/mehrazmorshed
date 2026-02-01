@@ -40,7 +40,7 @@
 - BlogBD (200+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
 ### WordPress Plugins:
-- MM Titles (8000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
+- MM Title Manager (8000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 - Hide Admin Navbar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
