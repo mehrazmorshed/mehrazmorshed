@@ -43,7 +43,6 @@
 - MM Title Manager (9000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
-- Tap To Top (100+ Active Installs) >> https://wordpress.org/plugins/tap-to-top/
 
 ### Google Chrome Extensions:
 - Screenshot Capture (47 users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
