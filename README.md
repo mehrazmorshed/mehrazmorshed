@@ -2,7 +2,6 @@
 
 <h4 align="center">Co-organizer at <a href="https://www.meetup.com/wpbhola/">Bhola WordPress Meetup #WPBhola</a></h4>
 
-- 📞 (+88) 01521452581
 - 🏠 Bhola District, Barishal Division, Bangladesh
 
 ## Skills
