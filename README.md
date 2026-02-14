@@ -2,7 +2,7 @@
 
 <h4 align="center">Co-organizer at <a href="https://www.meetup.com/wpbhola/">Bhola WordPress Meetup #WPBhola</a></h4>
 
-- 🏠 Bhola District, Barishal Division, Bangladesh
+- 🏠 Bangladesh
 
 ## Skills
 - Technical Support, Troubleshooting, Quality Assurance & Testing,
