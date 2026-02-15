@@ -57,7 +57,7 @@
 - <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> [Online] : Participant
 
 ### 2024
-- <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">WordCamp Sylhet 2024</a> [Sylhet, Bangladesh] : Attendee
+- <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">WordCamp Sylhet 2024</a> (Sylhet, Bangladesh) : Attendee
 - <a href="https://2024.wpaccessibility.day/community/attendees/">WordPress Accessibility Day 2024</a> [Online] : Attendee
 - <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> [Online] : Participant
 
