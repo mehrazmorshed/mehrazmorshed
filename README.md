@@ -1,6 +1,6 @@
 <h1 align="center">MEHRAZ MORSHED</h1>
 
-<h4 align="center">Co-organizer at <a href="https://www.meetup.com/wpbhola/">Bhola WordPress Meetup #WPBhola</a></h4>
+<h4 align="center">Organizer at <a href="https://www.meetup.com/wpbhola/">Bhola WordPress Meetup #WPBhola</a></h4>
 
 - 🏠 Bangladesh
 
