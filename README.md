@@ -2,7 +2,7 @@
 
 <h4 align="center">Organizer at <a href="https://www.meetup.com/wpbhola/">Bhola WordPress Meetup #WPBhola</a></h4>
 
-- 🏠 Bangladesh
+- 🏠 Bhola, Bangladesh
 
 ## Skills
 - Technical Support, Troubleshooting, Quality Assurance & Testing,
