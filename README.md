@@ -8,7 +8,7 @@
 - Technical Support, Troubleshooting, Quality Assurance & Testing,
 - PHP, SQL, JavaScript, CSS3, HTML5, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, WHM, SSL, DNS, VPS, SaaS, Cloud, AWS,
-- WordPress Themes, WordPress Plugins, WooCommerce, Elementor,
+- WordPress Themes, WordPress Plugins, WooCommerce, Elementor
 - Google Chrome Extension Development, On-Page & Technical SEO
 
 ## Experience
