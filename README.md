@@ -48,7 +48,7 @@
 
 <h1 align="center">WordPress Events</h1>
 
-### 2026
+### WordCamps
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### 2025
