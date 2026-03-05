@@ -55,9 +55,7 @@
 - WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### A11y Days
-- <a href="#">WordPress Accessibility Day 2026</a> [Online] : Organizer
-- <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">WordPress Accessibility Day 2025</a> [Online] : Attendee
-- <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">WordPress Accessibility Day 2024</a> (Online) : Attendee
+- <a href="#">WordPress Accessibility Day 2026</a> — Organizer
 
 ### Photo Events
 - <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> : Participant
