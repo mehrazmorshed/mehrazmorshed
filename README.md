@@ -56,6 +56,7 @@
 
 ### A11y Days
 - <a href="#">WordPress Accessibility Day 2026</a> — Organizer
+- WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### Photo Events
 - <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> : Participant
