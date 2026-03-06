@@ -62,7 +62,7 @@
 
 ### Photo Events
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">Attendee</a>
-- <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> — Attendee
+- WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">Attendee</a>
 
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
