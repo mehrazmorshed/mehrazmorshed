@@ -61,7 +61,7 @@
 - WordPress Accessibility Day 2024 — <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### Photo Events
-- <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> : Participant
+- <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/">WordPress Summer Photo Contest 2025</a> — Participant
 - <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/">WordPress Photo Festival 2024</a> : Participant
 
 <!---
