@@ -5,7 +5,7 @@
 - 🏠 Bhola District, Barishal Division, Bangladesh.
 
 ## Skills
-- Technical Support, Troubleshooting, Quality Assurance, Testing,
+- Technical Support, Troubleshooting, Quality Assurance & Testing,
 - PHP, SQL, JavaScript, CSS3, HTML5, Bootstrap, jQuery, Joomla,
 - cPanel, WebMail, WHM, SSL, DNS, VPS, SaaS, IaaS, Cloud, AWS,
 - WordPress Themes, WordPress Plugins, WooCommerce, Elementor,
