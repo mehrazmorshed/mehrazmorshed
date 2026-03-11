@@ -50,7 +50,6 @@
 <h1 align="center">WordPress Events</h1>
 
 ### WordCamps
-- WordCamp Asia 2026
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
 - WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
