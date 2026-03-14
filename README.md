@@ -44,7 +44,7 @@
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 
 ### Google Chrome Extensions:
-- Screenshot Capture (47 users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
+- Screenshot Capture (50+ Users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
 - Dark Mode (16 users)	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
 <h1 align="center">WordPress Events</h1>
