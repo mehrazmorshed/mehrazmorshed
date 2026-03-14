@@ -49,15 +49,15 @@
 
 <h1 align="center">WordPress Events</h1>
 
-### WordCamps
-- WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
-- WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
-- WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
-
 ### A11y Days
 - WordPress Accessibility Day 2026 — <a href="https://wpaccessibility.day/2026/about/organizers/#:~:text=Mehraz%20Morshed"><b>Organizer</b> (APAC Team)</a>
 - WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Accessibility Day 2024 — <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
+
+### WordCamps
+- WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
+- WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
+- WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### Photo Events
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
