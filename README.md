@@ -63,6 +63,18 @@
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
+<h1 align="center">BIOGRAPHY</h1>
+
+Mehraz Morshed is a passionate WordPress enthusiast from Bangladesh. He started his journey with WordPress in 2010 when he first learned about the CMS. What began as curiosity slowly became an important part of his professional life.
+
+Mehraz started blogging with WordPress in 2013. Since then, he has explored many areas of the WordPress ecosystem, including development, technical support, quality assurance and testing, product management, networking, community building, and open-source contributions.
+
+Mehraz has been actively translating WordPress projects since 2021 in multiple languages. He is a Locale Manager for the English (Australia) locale in the WordPress Polyglots team. He has also contributed to WordPress Core, Core AI, BuddyPress, Hosting, Openverse, Patterns, Photos, Playground, Plugins, Themes, and WP-CLI.
+
+Mehraz is a Mentor in the WordPress Credits Program. He volunteered at WordCamp Dhaka 2025 and attended WordCamp Nepal 2026 and WordCamp Sylhet 2024. He is also the Founder and Organizer of the Bhola WordPress Meetup in his hometown, Bhola, Bangladesh.
+
+Previously, Mehraz worked at Codexpert, Inc. as a WordPress Plugin Developer and Product Manager. Currently, he works at ShapedPlugin, LLC as a WordPress Support Engineer.
+
 <!---
 mehrazmorshed/mehrazmorshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
