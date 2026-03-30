@@ -35,13 +35,13 @@
 
 <h1 align="center">PORTFOLIO</h1>
 
-### WordPress Themes:
-- BlogBD (200+ Active Installs) >> https://wordpress.org/themes/blogbd/
-
 ### WordPress Plugins:
 - MM Title Manager (9000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
+
+### WordPress Themes:
+- BlogBD (200+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
 ### Google Chrome Extensions:
 - Screenshot Capture (40+ Users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
