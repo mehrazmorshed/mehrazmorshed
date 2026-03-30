@@ -28,10 +28,10 @@
 - 🎓 2010 : Secondary School Certificate (SSC), Science Group from Al-Hera Academy School and College
 
 ## Languages
-- 🇧🇩 Bangla
-- 🇺🇸 English
-- 🇮🇳 Hindi
-- 🇯🇵 Japanese
+- 🇧🇩 Bengali (Native)
+- 🇺🇸 English (Professional)
+- 🇮🇳 Hindi (Communicative)
+- 🇯🇵 Japanese (Basic)
 
 <h1 align="center">PORTFOLIO</h1>
 
