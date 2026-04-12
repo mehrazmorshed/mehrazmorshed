@@ -45,7 +45,7 @@
 
 ### Google Chrome Extensions:
 - Screenshot Capture (50+ Users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
-- Dark Mode (30+ Users)	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
+- Dark Mode (20+ Users)	>> https://chromewebstore.google.com/detail/dark-mode/gomcdfebilpfdbmdngecihmemmnndejl
 
 <h1 align="center">WordPress Events</h1>
 
