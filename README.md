@@ -58,6 +58,7 @@
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
 - WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
+- WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
 
 ### Photo Events
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
