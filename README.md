@@ -65,6 +65,19 @@
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
+---
+
+### Open Source Contributions:
+
+• 2026 → <a href="https://wordpress.org/news/2026/05/armstrong/#:~:text=Mehraz%20Morshed">WordPress 7.0 “Armstrong”</a>
+• 2026 → <a href="https://make.wordpress.org/core/2026/04/22/whats-new-in-gutenberg-23-0-22-april/#contributors#:~:text=mehrazmorshed">Gutenberg 23.0</a>
+• 2026 → <a href="https://x.com/heyamberhinds/status/2029297858361393499/">Accessibility Checker 1.38.0</a>
+• 2026 → <a href="https://make.wordpress.org/ai/2026/01/21/whats-new-in-ai-experiments-0-2-0-20-jan-2026/#:~:text=mehrazmorshed">AI Experiments 0.2.0</a>
+• 2026 → <a href="https://wordpress.org/news/2026/02/wordpress-6-9-1-maintenance-release/#:~:text=Mehraz%20Morshed">WordPress 6.9.1 Maintenance Release</a>
+• 2025 → <a href="https://wordpress.org/plugins/ads-txt/#developers">Ads.txt Manager 1.4.6</a>
+• 2024 → <a href="https://wordpress.org/plugins/nhrrob-options-table-manager/#developers">NHR Options Table Manager 1.0.4</a>
+• 2023 → <a href="https://buddypress.org/2023/12/buddypress-12-0-0-nonno/#:~:text=mehrazmorshed">BuddyPress 12.0.0 “Nonno”</a>
+
 <h1 align="center">BIOGRAPHY</h1>
 
 Mehraz Morshed is a passionate WordPress enthusiast from Bangladesh. He started his journey with WordPress in 2010 when he first learned about the CMS. What began as curiosity slowly became an important part of his professional life.
