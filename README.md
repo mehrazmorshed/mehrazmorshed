@@ -49,7 +49,7 @@
 
 <h1 align="center">WordPress Events</h1>
 
-### A11y Days
+### Accessibility Days
 - WordPress Accessibility Day 2026 — <a href="https://wpaccessibility.day/2026/about/organizers/#:~:text=Mehraz%20Morshed"><b>Organizer</b> (APAC Team)</a>
 - WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Accessibility Day 2024 — <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
@@ -64,6 +64,8 @@
 - Nepal Photo Festival 2026 — <a href="https://events.wordpress.org/nepal/2026/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee (International Participant)</a>
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
+
+### WordPress Campus Connect Events
 
 ---
 
