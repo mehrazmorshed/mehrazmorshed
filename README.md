@@ -67,6 +67,7 @@
 - WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
 ### WordPress Campus Connect Events
+- WordPress Campus Connect Kishoreganj University 2026 – <a href="https://events.wordpress.org/campusconnect/2026/kishoreganj/speakers/#:~:text=Mehraz%20Morshed" rel="nofollow">Speaker</a>
 
 ---
 
