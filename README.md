@@ -41,7 +41,7 @@
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 
 ### WordPress Themes:
-- BlogBD (200+ Active Installs) >> https://wordpress.org/themes/blogbd/
+- BlogBD (100+ Active Installs) >> https://wordpress.org/themes/blogbd/
 
 ### Google Chrome Extensions:
 - Screenshot Capture (60+ Users) >> https://chromewebstore.google.com/detail/screenshot-capture/ihjkmcbieodfbjheajnjdkiielbbbkia
