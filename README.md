@@ -57,9 +57,6 @@
 - WordCamp Bhopal 2023 - <a href="https://bhopal.wordcamp.org/2023/attendees/#:~:text=Mehraz%20Morshed">Attendee</a> (Couldn't attend due to visa issue)
 - WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
 
-### WordPress Campus Connect Events
-- WordPress Campus Connect Kishoreganj University 2026 – <a href="https://events.wordpress.org/campusconnect/2026/kishoreganj/speakers/#:~:text=Mehraz%20Morshed" rel="nofollow">Speaker</a>
-
 ### WordPress Accessibility Day Events
 - WordPress Accessibility Day 2026 — <a href="https://wpaccessibility.day/2026/about/organizers/#:~:text=Mehraz%20Morshed"><b>Organizer</b> (APAC Team)</a>
 - WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
@@ -69,6 +66,9 @@
 - Nepal Photo Festival 2026 — <a href="https://events.wordpress.org/nepal/2026/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee (International Participant)</a>
 - WordPress Summer Photo Contest 2025 — <a href="https://events.wordpress.org/quedadas/2025/summerphoto/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Photo Festival 2024 — <a href="https://events.wordpress.org/kerala/2024/photo-festival/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
+
+### WordPress Campus Connect Events
+- WordPress Campus Connect Kishoreganj University 2026 – <a href="https://events.wordpress.org/campusconnect/2026/kishoreganj/speakers/#:~:text=Mehraz%20Morshed" rel="nofollow">Speaker</a>
 
 ---
 
