@@ -36,7 +36,7 @@
 <h1 align="center">PORTFOLIO</h1>
 
 ### WordPress Plugins:
-- MM Title Manager (9000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
+- MM Title Manager (10000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
 - Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 
