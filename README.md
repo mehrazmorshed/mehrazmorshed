@@ -58,7 +58,6 @@
 - WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
 
 ### WordPress Accessibility Day Events
-- WordPress Accessibility Day 2026 — <a href="https://wpaccessibility.day/2026/about/organizers/#:~:text=Mehraz%20Morshed"><b>Organizer</b> (APAC Team)</a>
 - WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Accessibility Day 2024 — <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
@@ -74,6 +73,7 @@
 
 ### Open Source Contributions:
 
+- 2026 → GlotPress 4.1.0
 - 2026 → <a href="https://wordpress.org/news/2026/05/armstrong/#:~:text=Mehraz%20Morshed">WordPress 7.0 “Armstrong”</a>
 - 2026 → <a href="https://make.wordpress.org/core/2026/04/22/whats-new-in-gutenberg-23-0-22-april/#contributors#:~:text=mehrazmorshed">Gutenberg 23.0</a>
 - 2026 → <a href="https://x.com/heyamberhinds/status/2029297858361393499/">Accessibility Checker 1.38.0</a>
