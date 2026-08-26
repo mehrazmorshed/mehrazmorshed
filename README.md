@@ -74,7 +74,7 @@
 ### Open Source Contributions:
 
 - 2026 → <a href="https://wordpress.org/news/2026/08/mary-lou/#:~:text=Mehraz%20Morshed">WordPress 7.1 “Mary Lou”</a>
-- 2026 → GlotPress 4.1.0
+- 2026 → <a href="https://github.com/GlotPress/GlotPress/releases/tag/4.1.0/#:~:text=@mehrazmorshed">GlotPress 4.1.0</a>
 - 2026 → <a href="https://wordpress.org/news/2026/05/armstrong/#:~:text=Mehraz%20Morshed">WordPress 7.0 “Armstrong”</a>
 - 2026 → <a href="https://make.wordpress.org/core/2026/04/22/whats-new-in-gutenberg-23-0-22-april/#contributors#:~:text=mehrazmorshed">Gutenberg 23.0</a>
 - 2026 → <a href="https://x.com/heyamberhinds/status/2029297858361393499/">Accessibility Checker 1.38.0</a>
