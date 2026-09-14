@@ -50,6 +50,7 @@
 <h1 align="center">WordPress Events</h1>
 
 ### WordCamps
+- WordCamp Sylhet 2026
 - WordCamp Rajshahi 2026 — <a href="https://rajshahi.wordcamp.org/2026/table-leads/#:~:text=Mehraz%20Morshed">Contributor Day <b>Table Lead</b> (Accessibility)</a>
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
