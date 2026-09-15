@@ -59,6 +59,7 @@
 - WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
 
 ### WordPress Accessibility Day Events
+- WordPress Accessibility Day 2026
 - WordPress Accessibility Day 2025 — <a href="https://wpaccessibility.day/2025/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordPress Accessibility Day 2024 — <a href="https://2024.wpaccessibility.day/community/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 
