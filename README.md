@@ -51,9 +51,9 @@
 
 ### WordCamps
 - WordCamp Sylhet 2026 — <a href="https://sylhet.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
-- WordCamp Rajshahi 2026 — <a href="https://rajshahi.wordcamp.org/2026/table-leads/#:~:text=Mehraz%20Morshed">Contributor Day <b>Table Lead</b> (Accessibility)</a>
+- WordCamp Rajshahi 2026 — <a href="https://rajshahi.wordcamp.org/2026/table-leads/#:~:text=Mehraz%20Morshed"><b>Table Lead</b></a>
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
-- WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b> (Attendee & Event Operation Team)</a>
+- WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b></a>
 - WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordCamp Bhopal 2023 — <a href="https://bhopal.wordcamp.org/2023/attendees/#:~:text=Mehraz%20Morshed">Attendee</a> (Couldn't attend due to visa issue)
 - WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
