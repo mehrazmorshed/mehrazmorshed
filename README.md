@@ -55,8 +55,6 @@
 - WordCamp Nepal 2026 — <a href="https://nepal.wordcamp.org/2026/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
 - WordCamp Dhaka 2025 — <a href="https://dhaka.wordcamp.org/2025/volunteers/#:~:text=Mehraz%20Morshed"><b>Volunteer</b></a>
 - WordCamp Sylhet 2024 — <a href="https://sylhet.wordcamp.org/2024/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
-- WordCamp Bhopal 2023 — <a href="https://bhopal.wordcamp.org/2023/attendees/#:~:text=Mehraz%20Morshed">Attendee</a> (Couldn't attend due to visa issue)
-- WordCamp Iloilo 2023 – <a href="https://iloilo.wordcamp.org/2023/organizers/#:~:text=Mehraz%20Morshed">Volunteer</a> (Couldn't attend due to visa issue)
 
 ### WordPress Accessibility Day Events
 - WordPress Accessibility Day 2026 — <a href="https://wpaccessibility.day/2026/about/attendees/#:~:text=Mehraz%20Morshed">Attendee</a>
