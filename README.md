@@ -37,7 +37,7 @@
 
 ### WordPress Plugins:
 - MM Title Manager (10000+ Active Installs) >> https://wordpress.org/plugins/hide-titles/
-- Turn Off Comments (1000+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
+- Turn Off Comments (800+ Active Installs) >> https://wordpress.org/plugins/turn-off-comments/
 - MM Admin Bar (100+ Active Installs) >> https://wordpress.org/plugins/hide-admin-navbar/
 
 ### WordPress Themes:
